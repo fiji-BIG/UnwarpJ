@@ -51,15 +51,16 @@ import ij.gui.ImageWindow;
 import ij.gui.Roi;
 import ij.gui.Toolbar;
 import ij.io.FileSaver;
-import ij.plugin.JpegWriter;
 import ij.io.Opener;
 import ij.measure.Calibration;
+import ij.plugin.JpegWriter;
 import ij.plugin.PlugIn;
 import ij.process.ByteProcessor;
 import ij.process.FloatProcessor;
 import ij.process.ImageConverter;
 import ij.process.ImageProcessor;
 import ij.process.ShortProcessor;
+
 import java.awt.BorderLayout;
 import java.awt.Button;
 import java.awt.Canvas;
