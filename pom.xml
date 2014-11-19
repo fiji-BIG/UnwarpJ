@@ -17,6 +17,50 @@
 
 	<name>plugins/UnwarpJ_.jar</name>
 	<description></description>
+	<url>http://fiji.sc/UnwarpJ</url>
+	<inceptionYear>2010</inceptionYear>
+
+	<licenses>
+		<license>
+			<name>BIG</name>
+			<url>http://fiji.sc/BIG_License</url>
+			<distribution>repo</distribution>
+			<comments>Not an OSS license!</comments>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Carlos Oscar Sanchez Sorzano</name>
+			<url>http://biocomp.cnb.csic.es/~coss/</url>
+			<organization>Biomedical Imaging Group, EPFL</organization>
+			<organizationUrl>http://bigwww.epfl.ch/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+		<developer>
+			<name>Philippe Thevenaz</name>
+			<url>http://bigwww.epfl.ch/thevenaz/</url>
+			<organization>Biomedical Imaging Group, EPFL</organization>
+			<organizationUrl>http://bigwww.epfl.ch/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+		<developer>
+			<name>Michael Unser</name>
+			<url>http://bigwww.epfl.ch/unser/</url>
+			<organization>Biomedical Imaging Group, EPFL</organization>
+			<organizationUrl>http://bigwww.epfl.ch/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
 
 	<scm>
 		<connection>scm:git:git://github.com/fiji/UnwarpJ</connection>
