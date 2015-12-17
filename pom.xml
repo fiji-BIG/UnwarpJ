@@ -65,6 +65,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/UnwarpJ</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/UnwarpJ/issues</url>
+	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/UnwarpJ/</url>
